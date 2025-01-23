@@ -1,0 +1,19 @@
+Contact.html
+<html>
+   <head>
+	<title>About Me</title>
+   </head>
+   <body>
+        <a href="index.html">Back to homepage</a>
+	<h1>Contact Me</h1>
+	<h3>Get in Touch</h3>
+	  <p>You can reach me via email or connect with me on social media:</p>
+	  <p><strong>Email: </strong>afshazareendesai@gmail.com</p>
+	  <p><strong>LinkedIn: </strong><a href="">https://in.linkedin.com/in/shaik-afsha-zareen-desai-7b1377323</a></p>
+          <p><strong>GitHub: </strong><a href="">https://github.com/shaikafshazareendesai</a></p>
+
+	<footer>
+           @2025 Shaik Afsha. All rights reserved.
+	</footer>
+   </body>
+</html>

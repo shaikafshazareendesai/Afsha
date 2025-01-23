@@ -1,0 +1,21 @@
+Project.html
+<html>
+   <head>
+	<title>My Projects</title>
+   </head>
+   <body>
+        <a href="index.html">Back to homepage</a>
+	<h1>My Projects</h1>
+	<h2>List of Projects</h2>
+	     <div>
+		<ul>
+	   <li>strong>Portfolio website: </strong>A personal website to showcase my projects and skills</li>
+           <li>strong>Task Manager App: </strong>An app to manage tasks and to-do lists</li>
+	   <li>strong>Weather App: </strong>A web app to show weather information using an API</li>
+	</ul>
+	     </div>
+        <footer>
+           @2025 Shaik Afsha. All rights reserved.
+	</footer>
+   </body>
+</html> only change according to my projects
